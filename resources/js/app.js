@@ -1,1 +1,1 @@
-import '../css/app.css'
+import '../React/index'
